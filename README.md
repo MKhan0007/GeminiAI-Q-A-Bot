@@ -16,12 +16,12 @@ This bot provides answers to general questions through a **Streamlit web interfa
 
 ## 📂 Project Structure
 
-AI-Q-A-Bot/
-│── app.py # Streamlit app
-│── requirements.txt # Python dependencies
-│── .gitignore # Files to ignore in Git
-│── README.md # Project README
-│── .env # Stores Gemini API key (not committed to GitHub)
+-AI-Q-A-Bot/
+-│── app.py # Streamlit app
+-│── requirements.txt # Python dependencies
+-│── .gitignore # Files to ignore in Git
+-│── README.md # Project README
+-│── .env # Stores Gemini API key (not committed to GitHub)
 
 ## ⚙️ Setup
 
@@ -69,14 +69,14 @@ streamlit run app.py
 
 ## 🤖 Supported Model:
 
-***Recommended: models/gemini-2.5-flash (free tier)***
-***Optional: models/gemini-flash-latest or models/gemini-2.5-pro***
+-***Recommended: models/gemini-2.5-flash (free tier)***
+-***Optional: models/gemini-flash-latest or models/gemini-2.5-pro***
 
 ## 📦 Dependencies
 
-***streamlit***
-***python-dotenv***
-***google-generativeai***
+-***streamlit***
+-***python-dotenv***
+-***google-generativeai***
 
 ## 📜 License
 
