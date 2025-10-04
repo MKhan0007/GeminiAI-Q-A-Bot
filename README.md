@@ -1,4 +1,5 @@
-# AI Q&A Bot
+# GeminiAI Q&A Bot
+### [Visit](https://geminiai-qanda-bot.onrender.com/)
 
 A simple **Python-based general Q&A bot** powered by **Google Gemini 2.5 Flash** model.  
 This bot provides answers to general questions through a **Streamlit web interface**.
